@@ -1,6 +1,6 @@
 [![Gitter chat](https://img.shields.io/badge/gitter-join%20chat-brightgreen.svg)](https://gitter.im/CiscoSecurity/AMP-for-Endpoints "Gitter chat")
 
-### AMP for Endpoint Endpoint Isolation Basics:
+### AMP for Endpoints Endpoint Isolation Basics:
 This collection of scripts cover the basics of interacting with the AMP for Endpoints Endpoint Isolation API. Each script covers one API endpoint. These are intented to show the bare minimum required to interact with the API endpoint.
 
 ### Before using you must update the following:
